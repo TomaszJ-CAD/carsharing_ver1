@@ -3,7 +3,7 @@ package pl.sdacademy.domain.entity;
 import javax.persistence.Embeddable;
 
 
-@Embeddable
+
 public class Address {
 
     private Integer id;
